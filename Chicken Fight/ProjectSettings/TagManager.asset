@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CameraShake
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - Spike
+  - MovingPlatform
+  - OneWayPlatform
+  - Ladder
+  - Item
+  - TriggerBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1376738361
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2014626639
+    locked: 0
+  - name: Ladder
+    uniqueID: 1121183603
+    locked: 0
+  - name: Item
+    uniqueID: 1984837179
+    locked: 0
+  - name: Enemy
+    uniqueID: 3110446877
+    locked: 0
+  - name: Player
+    uniqueID: 2217844149
+    locked: 0
