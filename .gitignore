@@ -22,11 +22,23 @@
 
 # Visual Studio cache directory
 .vs/
-.vscode/
-Library/
-Logs/
-UserSettings/
-obj/Debug/
+AngryBirds/.vscode
+AngryBirds/Library
+AngryBirds/Logs
+AngryBirds/UserSettings
+AngryBirds/obj/Debug
+
+Chicken Fight/.vscode
+Chicken Fight/Library
+Chicken Fight/Logs
+Chicken Fight/UserSettings
+Chicken Fight/obj/Debug
+
+Craft large watermelons/.vscode
+Craft large watermelons/Library
+Craft large watermelons/Logs
+Craft large watermelons/UserSettings
+Craft large watermelons/obj/Debug
 
 # Gradle cache directory
 .gradle/
