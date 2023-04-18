@@ -21,12 +21,12 @@
 [Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
-*.vs/
-*.vscode
-*Library
-*Logs
-*UserSettings
-*Debug
+.vs/
+.vscode
+Library
+Logs
+UserSettings
+obj/Debug
 
 # Gradle cache directory
 .gradle/
