@@ -10,7 +10,7 @@
 
 三个项目的文件略有不同，但是游戏相关的所有资产均位于`Assets`文件夹下，接下来对此文件夹进行详细说明
 
-### Chicken Fight（仍在开发中）
+### Chicken Fight（仍在开发中2023.3.28—至今）
 
 **动画文件夹Animations**
 
@@ -43,3 +43,20 @@
 
 **2D灯光文件夹URP**：通用渲染管线
 
+### AngryBirds（2022.3.20—2022.4.5）
+
+**Animation、Materials、Prefabs、Scenes、scripts**与上面一样，不再赘述
+
+**音效文件夹Music**
+
+**游戏素材文件夹Image**
+
+**特效文件夹PocketRPG Trails**：小鸟飞出拖尾效果
+
+**关卡文件夹Resources**：当时还不会tilemap   :(
+
+**材质和贴图文件夹Standard Assets**
+
+### Craft large watermelons（2022.4.28-2022.5.1）
+
+所有文件夹上述都有介绍过，不再赘述
