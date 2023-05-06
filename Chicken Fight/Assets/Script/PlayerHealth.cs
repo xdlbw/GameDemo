@@ -49,6 +49,7 @@ public class PlayerHealth : MonoBehaviour
         if (health <= 0)
         {
             health = 0;                                     //当血量小于0时重置为0，防止出现血量负数的bug
+            HealthBar.HealthCurrent = health;
             MyAnim.SetTrigger("Death");
             GetComponent<PlayerController>().enabled = false;       //玩家不可移动
             GetComponent<Rigidbody2D>().velocity = Vector2.zero;    //速度置零
