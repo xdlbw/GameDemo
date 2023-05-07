@@ -6,6 +6,10 @@
 
 游戏试玩demo分别在三个压缩包里面，直接点击`.exe`文件即可，注意不是`UnityCrashHandler64.exe`
 
+## demo视频展示
+
+腾讯微云链接：https://share.weiyun.com/8Y0rAQyz 密码：e3bdsy
+
 ## 文件说明
 
 三个项目的文件略有不同，但是游戏相关的所有资产均位于`Assets`文件夹下，接下来对此文件夹进行详细说明
